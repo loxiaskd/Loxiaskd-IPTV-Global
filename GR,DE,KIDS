@@ -1,0 +1,993 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="-==========ΕΛΛΑΔΑ==========-" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/GreeceFlag.png" group-title="Ελλάδα",-==========ΕΛΛΑΔΑ==========-
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104271
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Γενικού ενδιαφέροντος-ειδήσεις -----------" tvg-logo="" group-title="Ελλάδα",---------- Γενικού ενδιαφέροντος-ειδήσεις -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104534
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Ert World HD" tvg-logo="http://51.255.35.36/icons1/gr/ert_gr_hd.png" group-title="Ελλάδα",GR: Ert World HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/60281
+#EXTINF:-1 tvg-ID="ΕΡΤ HD" tvg-name="GR: ERT Sport HD" tvg-logo="http://51.255.35.36/icons1/gr/ert-sports-gr.png" group-title="Ελλάδα",GR: ERT Sport HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43348
+#EXTINF:-1 tvg-ID="ert1.gr" tvg-name="GR: Ert 1 HD" tvg-logo="http://51.255.35.36/icons1/gr/ERT1.png" group-title="Ελλάδα",GR: Ert 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43345
+#EXTINF:-1 tvg-ID="ert2.gr" tvg-name="GR: Ert 2 HD" tvg-logo="http://51.255.35.36/icons1/gr/ert_gr_2.png" group-title="Ελλάδα",GR: Ert 2 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43346
+#EXTINF:-1 tvg-ID="ert3.gr" tvg-name="GR: Ert 3 HD" tvg-logo="http://51.255.35.36/icons1/gr/ert_gr_3.png" group-title="Ελλάδα",GR: Ert 3 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43347
+#EXTINF:-1 tvg-ID="ant1.gr" tvg-name="GR: Ant1" tvg-logo="http://51.255.35.36/icons1/gr/antenna1_gr.png" group-title="Ελλάδα",GR: Ant1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/24676
+#EXTINF:-1 tvg-ID="ant1.gr" tvg-name="GR: Ant1 HD" tvg-logo="http://51.255.35.36/icons1/gr/antenna1_gr.png" group-title="Ελλάδα",GR: Ant1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43339
+#EXTINF:-1 tvg-ID="ant1.gr" tvg-name="GR: Ant1  FHD" tvg-logo="http://51.255.35.36/icons1/gr/antenna1_gr.png" group-title="Ελλάδα",GR: Ant1  FHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108766
+#EXTINF:-1 tvg-ID="alpha.gr" tvg-name="GR: Alpha" tvg-logo="http://51.255.35.36/icons1/gr/alpha_tv.png" group-title="Ελλάδα",GR: Alpha
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17451
+#EXTINF:-1 tvg-ID="alpha.gr" tvg-name="GR: Alpha HD" tvg-logo="http://51.255.35.36/icons1/gr/alpha_tv.png" group-title="Ελλάδα",GR: Alpha HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43338
+#EXTINF:-1 tvg-ID="alpha.gr" tvg-name="GR: Alpha FHD" tvg-logo="http://51.255.35.36/icons1/gr/alpha_tv.png" group-title="Ελλάδα",GR: Alpha FHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108765
+#EXTINF:-1 tvg-ID="star.gr" tvg-name="GR: Star" tvg-logo="http://51.255.35.36/icons1/gr/star_channel_gr.png" group-title="Ελλάδα",GR: Star
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17452
+#EXTINF:-1 tvg-ID="star.gr" tvg-name="GR: Star HD" tvg-logo="http://51.255.35.36/icons1/gr/star_channel_gr.png" group-title="Ελλάδα",GR: Star HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43342
+#EXTINF:-1 tvg-ID="star.gr" tvg-name="GR: Star FHD" tvg-logo="http://51.255.35.36/icons1/gr/star_channel_gr.png" group-title="Ελλάδα",GR: Star FHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108768
+#EXTINF:-1 tvg-ID="openbeyond.gr" tvg-name="GR: Open Beyond" tvg-logo="http://51.255.35.36/icons1/gr/open-tv-.jpg" group-title="Ελλάδα",GR: Open Beyond
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17458
+#EXTINF:-1 tvg-ID="openbeyond.gr" tvg-name="GR: Open Beyond HD" tvg-logo="http://51.255.35.36/icons1/gr/open-tv-.jpg" group-title="Ελλάδα",GR: Open Beyond HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43343
+#EXTINF:-1 tvg-ID="openbeyond.gr" tvg-name="GR: Open Beyond FHD" tvg-logo="http://51.255.35.36/icons1/gr/open-tv-.jpg" group-title="Ελλάδα",GR: Open Beyond FHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108769
+#EXTINF:-1 tvg-ID="skai.gr" tvg-name="GR: Skai" tvg-logo="http://51.255.35.36/icons1/gr/skai_tv.png" group-title="Ελλάδα",GR: Skai
+http://012345x.com:999/Petros.Fak/petros.f@k@as/24679
+#EXTINF:-1 tvg-ID="skai.gr" tvg-name="GR: Skai HD" tvg-logo="http://51.255.35.36/icons1/gr/skai_tv.png" group-title="Ελλάδα",GR: Skai HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43341
+#EXTINF:-1 tvg-ID="skai.gr" tvg-name="GR: Skai FHD" tvg-logo="http://51.255.35.36/icons1/gr/skai_tv.png" group-title="Ελλάδα",GR: Skai FHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108767
+#EXTINF:-1 tvg-ID="mega.gr" tvg-name="GR: Mega TV" tvg-logo="http://51.255.35.36/icons1/gr/mega_greece.png" group-title="Ελλάδα",GR: Mega TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/85626
+#EXTINF:-1 tvg-ID="mega.gr" tvg-name="GR: Mega TV HD" tvg-logo="http://51.255.35.36/icons1/gr/mega_greece.png" group-title="Ελλάδα",GR: Mega TV HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/85625
+#EXTINF:-1 tvg-ID="mega.gr" tvg-name="GR: Mega TV FHD" tvg-logo="http://51.255.35.36/icons1/gr/mega_greece.png" group-title="Ελλάδα",GR: Mega TV FHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108764
+#EXTINF:-1 tvg-ID="makedoniatv.gr" tvg-name="GR: Makedonia TV" tvg-logo="http://51.255.35.36/icons1/gr/makedonia_tv.png" group-title="Ελλάδα",GR: Makedonia TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17566
+#EXTINF:-1 tvg-ID="makedoniatv.gr" tvg-name="GR: Makedonia TV HD" tvg-logo="http://51.255.35.36/icons1/gr/makedonia_tv.png" group-title="Ελλάδα",GR: Makedonia TV HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/43344
+#EXTINF:-1 tvg-ID="one.gr" tvg-name="GR: One Channel HD" tvg-logo="http://51.255.35.36/icons1/gr/One_channel.jpeg" group-title="Ελλάδα",GR: One Channel HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65985
+#EXTINF:-1 tvg-ID="tv100.gr" tvg-name="GR: TV100" tvg-logo="http://51.255.35.36/icons1/gr/Tv100_2.png" group-title="Ελλάδα",GR: TV100
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17565
+#EXTINF:-1 tvg-ID="kontrachannel.gr" tvg-name="GR: Kontra Channel" tvg-logo="http://51.255.35.36/icons1/gr/kontra_channel.png" group-title="Ελλάδα",GR: Kontra Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17457
+#EXTINF:-1 tvg-ID="Kontra" tvg-name="GR: Kontra Channel (B)" tvg-logo="http://51.255.35.36/icons1/gr/kontra_channel.png" group-title="Ελλάδα",GR: Kontra Channel (B)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/75319
+#EXTINF:-1 tvg-ID="euronews.gr" tvg-name="GR: Euronews" tvg-logo="http://51.255.35.36/icons1/pt/euronews_fr.png" group-title="Ελλάδα",GR: Euronews
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65984
+#EXTINF:-1 tvg-ID="action24.gr" tvg-name="GR: Action24" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/action_24_gr.png" group-title="Ελλάδα",GR: Action24
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17474
+#EXTINF:-1 tvg-ID="" tvg-name="GR: ART TV" tvg-logo="http://51.255.35.36/icons1/gr/art_tv.jpg" group-title="Ελλάδα",GR: ART TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17473
+#EXTINF:-1 tvg-ID="epsilontv.gr" tvg-name="GR: Epsilon" tvg-logo="http://51.255.35.36/icons1/gr/epsilon_tv_gr.png" group-title="Ελλάδα",GR: Epsilon
+http://012345x.com:999/Petros.Fak/petros.f@k@as/100906
+#EXTINF:-1 tvg-ID="" tvg-name="GR: 4E Tv" tvg-logo="http://51.255.35.36/icons1/gr/4e-LIVE-TV.jpg" group-title="Ελλάδα",GR: 4E Tv
+http://012345x.com:999/Petros.Fak/petros.f@k@as/71089
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Net TV Toronto" tvg-logo="http://51.255.35.36/icons1/gr/tvicon.png" group-title="Ελλάδα",GR: Net TV Toronto
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18379
+#EXTINF:-1 tvg-ID="" tvg-name="GR: E TV" tvg-logo="http://dna-iptv.com:999/images/e2f6d2b42a0ae7bf3fcbba69012df542.jpg" group-title="Ελλάδα",GR: E TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87707
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Best TV" tvg-logo="http://dna-iptv.com:999/images/da034de38c791a4e574a513e7b97bec6.PNG" group-title="Ελλάδα",GR: Best TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87700
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Alert" tvg-logo="http://dna-iptv.com:999/images/1c75d402fb481523acd44e9d8247bc80.png" group-title="Ελλάδα",GR: Alert
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87692
+#EXTINF:-1 tvg-ID="parliament.gr" tvg-name="GR: Vouli" tvg-logo="http://51.255.35.36/icons1/gr/vouli_tileorasi_gr.png" group-title="Ελλάδα",GR: Vouli
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17476
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Σινεμά -----------" tvg-logo="" group-title="Ελλάδα",---------- Σινεμά -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104272
+#EXTINF:-1 tvg-ID="fox.gr" tvg-name="GR: Fox" tvg-logo="http://51.255.35.36/icons1/gr/fox_global.png" group-title="Ελλάδα",GR: Fox
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17586
+#EXTINF:-1 tvg-ID="foxlife.gr" tvg-name="GR: Fox Life HD" tvg-logo="http://51.255.35.36/icons1/gr/fox_life_global.png" group-title="Ελλάδα",GR: Fox Life HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103018
+#EXTINF:-1 tvg-ID="villagecinema.gr" tvg-name="GR: Village Cinema HD" tvg-logo="http://51.255.35.36/icons1/gr/village_cinemas_gr.png" group-title="Ελλάδα",GR: Village Cinema HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17600
+#EXTINF:-1 tvg-ID="" tvg-name="GR: MovieTime 1HD" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/movietime1hd.png" group-title="Ελλάδα",GR: MovieTime 1HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/107129
+#EXTINF:-1 tvg-ID="" tvg-name="GR: MovieTime 2HD" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/movietime2.png" group-title="Ελλάδα",GR: MovieTime 2HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/107281
+#EXTINF:-1 tvg-ID="" tvg-name="GR: MovieTime 3HD" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/movietime3.png" group-title="Ελλάδα",GR: MovieTime 3HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/107421
+#EXTINF:-1 tvg-ID="" tvg-name="GR: MovieTime Old Greek" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/movietime3.png" group-title="Ελλάδα",GR: MovieTime Old Greek
+http://012345x.com:999/Petros.Fak/petros.f@k@as/107403
+#EXTINF:-1 tvg-ID="novalife.gr" tvg-name="GR: Nova Life HD" tvg-logo="http://51.255.35.36/icons1/gr/novalife-gr.png" group-title="Ελλάδα",GR: Nova Life HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52768
+#EXTINF:-1 tvg-ID="novacinema1.gr" tvg-name="GR: Nova Cinema 1HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_1.png" group-title="Ελλάδα",GR: Nova Cinema 1HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19642
+#EXTINF:-1 tvg-ID="novacinema1.gr" tvg-name="GR: Nova Cinema 1HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_1.png" group-title="Ελλάδα",GR: Nova Cinema 1HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106772
+#EXTINF:-1 tvg-ID="novacinema2.gr" tvg-name="GR: Nova Cinema 2HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_2.png" group-title="Ελλάδα",GR: Nova Cinema 2HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19641
+#EXTINF:-1 tvg-ID="novacinema2.gr" tvg-name="GR: Nova Cinema 2HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_2.png" group-title="Ελλάδα",GR: Nova Cinema 2HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106771
+#EXTINF:-1 tvg-ID="novacinema3.gr" tvg-name="GR: Nova Cinema 3HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_3.png" group-title="Ελλάδα",GR: Nova Cinema 3HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27549
+#EXTINF:-1 tvg-ID="novacinema3.gr" tvg-name="GR: Nova Cinema 3HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_3.png" group-title="Ελλάδα",GR: Nova Cinema 3HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106773
+#EXTINF:-1 tvg-ID="novacinema4.gr" tvg-name="GR: Nova Cinema 4HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_4.png" group-title="Ελλάδα",GR: Nova Cinema 4HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27550
+#EXTINF:-1 tvg-ID="novacinema4.gr" tvg-name="GR: Nova Cinema 4HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_cinema_4.png" group-title="Ελλάδα",GR: Nova Cinema 4HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106774
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Stars HD" tvg-logo="" group-title="Ελλάδα",GR: Nova Stars HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/100832
+#EXTINF:-1 tvg-ID="cosmotecinema1.gr" tvg-name="GR: Ote Cinema 1HD" tvg-logo="http://51.255.35.36/icons1/gr/ote1.png" group-title="Ελλάδα",GR: Ote Cinema 1HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17588
+#EXTINF:-1 tvg-ID="cosmotecinema2.gr" tvg-name="GR: Ote Cinema 2HD" tvg-logo="http://51.255.35.36/icons1/gr/ote2.png" group-title="Ελλάδα",GR: Ote Cinema 2HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17589
+#EXTINF:-1 tvg-ID="cosmotecinema3.gr" tvg-name="GR: Ote Cinema 3HD" tvg-logo="http://51.255.35.36/icons1/gr/ote3.png" group-title="Ελλάδα",GR: Ote Cinema 3HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17591
+#EXTINF:-1 tvg-ID="cosmotecinema4.gr" tvg-name="GR: Ote Series HD" tvg-logo="http://51.255.35.36/icons1/gr/cosmote-series-gr.png" group-title="Ελλάδα",GR: Ote Series HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17720
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Ote Series Marathon HD" tvg-logo="http://51.255.35.36/icons1/gr/cosmote-series-gr.png" group-title="Ελλάδα",GR: Ote Series Marathon HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/100834
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Τοπικά -----------" tvg-logo="" group-title="Ελλάδα",---------- Τοπικά -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54668
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Syros TV1" tvg-logo="http://51.255.35.36/icons1/gr/syros_tv_1_gr.png" group-title="Ελλάδα",GR: Syros TV1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/60288
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Attica TV" tvg-logo="http://51.255.35.36/icons1/gr/HighTV.png" group-title="Ελλάδα",GR: Attica TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18717
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Acheloos TV" tvg-logo="http://51.255.35.36/icons1/gr/Aheloos%20tv.png" group-title="Ελλάδα",GR: Acheloos TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18714
+#EXTINF:-1 tvg-ID="enachannel.gr" tvg-name="GR: Ena Channel" tvg-logo="http://dna-iptv.com:999/images/9d6bb7fa9418b91d0f33657f082aac21.png" group-title="Ελλάδα",GR: Ena Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87709
+#EXTINF:-1 tvg-ID="Alfagr" tvg-name="GR: Krhth TV" tvg-logo="http://51.255.35.36/icons1/gr/kriti_tv.png" group-title="Ελλάδα",GR: Krhth TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17469
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Messinia TV" tvg-logo="http://51.255.35.36/icons1/gr/Messinias_Tv.jpg" group-title="Ελλάδα",GR: Messinia TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52759
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Delta TV" tvg-logo="" group-title="Ελλάδα",GR: Delta TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/105430
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Samiaki TV" tvg-logo="http://51.255.35.36/icons1/gr/samiaki_tv_gr.png" group-title="Ελλάδα",GR: Samiaki TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52760
+#EXTINF:-1 tvg-ID="cretetv.gr" tvg-name="GR: Creta TV" tvg-logo="http://51.255.35.36/icons1/gr/tv_creta_gr.png" group-title="Ελλάδα",GR: Creta TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52761
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Start (Corfu)" tvg-logo="" group-title="Ελλάδα",GR: Start (Corfu)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/114081
+#EXTINF:-1 tvg-ID="Channel 9" tvg-name="GR: Channel 9" tvg-logo="http://51.255.35.36/icons1/gr/channel9_gr.png" group-title="Ελλάδα",GR: Channel 9
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52767
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Vergina TV" tvg-logo="http://51.255.35.36/icons1/gr/vergina-tv-gr.png" group-title="Ελλάδα",GR: Vergina TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/100953
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Lychnoc TV" tvg-logo="http://dna-iptv.com:999/images/7497ee945d1621f02a112d0c9de01477.PNG" group-title="Ελλάδα",GR: Lychnoc TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87750
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Diktyo" tvg-logo="http://51.255.35.36/icons1/gr/diktyo%20tv%20SERRES.png" group-title="Ελλάδα",GR: Diktyo
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45792
+#EXTINF:-1 tvg-ID="" tvg-name="GR: TV Filopoli" tvg-logo="http://dna-iptv.com:999/images/fa98a4a51dcc26bc2638304bc916b9d6.png" group-title="Ελλάδα",GR: TV Filopoli
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87740
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Top Channel" tvg-logo="http://dna-iptv.com:999/images/c7e839b047b3e00efd6f02e0fbbc1220.png" group-title="Ελλάδα",GR: Top Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87736
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nea TV" tvg-logo="http://dna-iptv.com:999/images/a4e0cb647e675b30a51d790c4adc9913.png" group-title="Ελλάδα",GR: Nea TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87722
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Irida TV" tvg-logo="http://dna-iptv.com:999/images/2bc71a201ebb55abd3e57cd28029fe8e.png" group-title="Ελλάδα",GR: Irida TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87715
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Epirus TV1" tvg-logo="http://dna-iptv.com:999/images/c37ad26db26c25f3566b24cb89b8f2d1.png" group-title="Ελλάδα",GR: Epirus TV1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87711
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Eoe TV" tvg-logo="http://dna-iptv.com:999/images/7656a7ea8fe6204e1afd8ac6057702ff.png" group-title="Ελλάδα",GR: Eoe TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87710
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Alfa Dramas" tvg-logo="http://dna-iptv.com:999/images/6e195b570b97720a5dfce6f855884d24.jpg" group-title="Ελλάδα",GR: Alfa Dramas
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87693
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Ionian Channel" tvg-logo="http://51.255.35.36/icons1/gr/ionian_tv_gr.png" group-title="Ελλάδα",GR: Ionian Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52762
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Κύπρος -----------" tvg-logo="" group-title="Ελλάδα",---------- Κύπρος -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104535
+#EXTINF:-1 tvg-ID="cybc1.cy" tvg-name="GR: Rik 1 Cyprus" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/rik-sat-cy.png" group-title="Ελλάδα",GR: Rik 1 Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17569
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Rik 2 Cyprus" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/rik-sat-cy.png" group-title="Ελλάδα",GR: Rik 2 Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18351
+#EXTINF:-1 tvg-ID="alpha.cy" tvg-name="GR: Rik Sat Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/RIK-Sat.png" group-title="Ελλάδα",GR: Rik Sat Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52757
+#EXTINF:-1 tvg-ID="ant1.cy" tvg-name="GR: Ant1 Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/antenna1_gr.png" group-title="Ελλάδα",GR: Ant1 Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18353
+#EXTINF:-1 tvg-ID="alpha.cy" tvg-name="GR: Alpha TV Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/alphacy.png" group-title="Ελλάδα",GR: Alpha TV Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18348
+#EXTINF:-1 tvg-ID="extra.cy" tvg-name="GR: Extra TV Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/EXTRA-tv-cyprus.png" group-title="Ελλάδα",GR: Extra TV Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18352
+#EXTINF:-1 tvg-ID="capital.cy" tvg-name="GR: Capital Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/capital.png" group-title="Ελλάδα",GR: Capital Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18680
+#EXTINF:-1 tvg-ID="plustv.cy" tvg-name="GR: Plus Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/CyplusLogo.png" group-title="Ελλάδα",GR: Plus Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52758
+#EXTINF:-1 tvg-ID="omega.cy" tvg-name="GR: Omega Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/TVONE_Cyprus.jpg" group-title="Ελλάδα",GR: Omega Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18349
+#EXTINF:-1 tvg-ID="sigma.cy" tvg-name="GR: Sigma Cyprus" tvg-logo="http://51.255.35.36/icons1/gr/sigma-logo-final.png" group-title="Ελλάδα",GR: Sigma Cyprus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17480
+#EXTINF:-1 tvg-ID="" tvg-name="----------- Παιδικά ------------" tvg-logo="" group-title="Παιδικά",----------- Παιδικά ------------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104274
+#EXTINF:-1 tvg-ID="nickelodeonhd.gr" tvg-name="GR: Nickelodeon HD" tvg-logo="http://51.255.35.36/icons1/gr/nickelodeon_us_hd.png" group-title="Παιδικά",GR: Nickelodeon HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17453
+#EXTINF:-1 tvg-ID="disneychannel.gr" tvg-name="GR: Disney Channel" tvg-logo="http://51.255.35.36/icons1/se:/disney_channel_global.png" group-title="Παιδικά",GR: Disney Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17597
+#EXTINF:-1 tvg-ID="disneyjunior.gr" tvg-name="GR: Disney Junior" tvg-logo="http://51.255.35.36/icons1/gr/disney_junior_us.png" group-title="Παιδικά",GR: Disney Junior
+http://012345x.com:999/Petros.Fak/petros.f@k@as/71600
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Jim Jam" tvg-logo="http://51.255.35.36/icons1/gr/jimjam.jpg" group-title="Παιδικά",GR: Jim Jam
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17572
+#EXTINF:-1 tvg-ID="babytv.gr" tvg-name="GR: Baby TV" tvg-logo="http://51.255.35.36/icons1/gr/babytv.png" group-title="Παιδικά",GR: Baby TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18696
+#EXTINF:-1 tvg-ID="Smile TV" tvg-name="GR: Smile" tvg-logo="http://51.255.35.36/icons1/gr/Smile.png" group-title="Παιδικά",GR: Smile
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18694
+#EXTINF:-1 tvg-ID="" tvg-name="GR: MovieTime Kids Christmas HD" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/movietimekids.png" group-title="Παιδικά",GR: MovieTime Kids Christmas HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/107309
+#EXTINF:-1 tvg-ID="" tvg-name="GR: MovieTime Kids 1HD" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/movietimekids.png" group-title="Παιδικά",GR: MovieTime Kids 1HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/107299
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids Mix 1" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Kids Mix 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/58139
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Kids Mix 2" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Kids Mix 2
+http://012345x.com:999/Petros.Fak/petros.f@k@as/58140
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Tom and Jerry" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Tom and Jerry
+http://012345x.com:999/Petros.Fak/petros.f@k@as/58061
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Mickey Mouse" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Mickey Mouse
+http://012345x.com:999/Petros.Fak/petros.f@k@as/58046
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Peppa To Gourounaki" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Peppa To Gourounaki
+http://012345x.com:999/Petros.Fak/petros.f@k@as/58060
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Smurfs" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Smurfs
+http://012345x.com:999/Petros.Fak/petros.f@k@as/58045
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Masha and the Bear" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Masha and the Bear
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65472
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Mr Bean Cartoon" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Mr Bean Cartoon
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65485
+#EXTINF:-1 tvg-ID="" tvg-name="GR: SpongeBob" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: SpongeBob
+http://012345x.com:999/Petros.Fak/petros.f@k@as/71088
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Lego Friends" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Lego Friends
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104414
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Maya The Bee" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Maya The Bee
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104415
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Dora And Friends" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Dora And Friends
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104413
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Alvin!!! And The Chipmunks" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Alvin!!! And The Chipmunks
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104412
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Winx Club" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Winx Club
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104411
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Spider-Man" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Spider-Man
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104410
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Paw Patrol" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Paw Patrol
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104405
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Blaze and The Monster Machine" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Blaze and The Monster Machine
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104391
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Friends Tigger & Pooh" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Friends Tigger & Pooh
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104428
+#EXTINF:-1 tvg-ID="Bloomberg" tvg-name="GR: Boomerang HD" tvg-logo="http://51.255.35.36/icons1/gr/boomerang_global.png" group-title="Παιδικά",GR: Boomerang HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53039
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Star Kids" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Star Kids
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19152
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Star Kids 1" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/KidsChannel.png" group-title="Παιδικά",GR: Star Kids 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/41000
+#EXTINF:-1 tvg-ID="" tvg-name="----------- Ντοκυμαντέρ ------------" tvg-logo="" group-title="Ελλάδα",----------- Ντοκυμαντέρ ------------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104273
+#EXTINF:-1 tvg-ID="animalplanet.gr" tvg-name="GR: Animal Planet" tvg-logo="http://51.255.35.36/icons1/gr/animal_planet_us_hd.png" group-title="Ελλάδα",GR: Animal Planet
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17395
+#EXTINF:-1 tvg-ID="discoverychannel.gr" tvg-name="GR: Discovery" tvg-logo="http://51.255.35.36/icons1/gr/discovery_global_us.png" group-title="Ελλάδα",GR: Discovery
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17396
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Discovery Turbo  Xtra" tvg-logo="http://51.255.35.36/icons1/gr/discovery_global_us.png" group-title="Ελλάδα",GR: Discovery Turbo  Xtra
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17571
+#EXTINF:-1 tvg-ID="Discovery Science" tvg-name="GR: Discovery Science HD" tvg-logo="http://51.255.35.36/icons1/gr/discovery_science_global.png" group-title="Ελλάδα",GR: Discovery Science HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17398
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Discovery ID HD" tvg-logo="http://51.255.35.36/icons1/gr/discovery_global_us.png" group-title="Ελλάδα",GR: Discovery ID HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17400
+#EXTINF:-1 tvg-ID="discoveryshowcase.gr" tvg-name="GR: Discovery Show Case" tvg-logo="http://51.255.35.36/icons1/gr/discovery_hd_showcase_us.png" group-title="Ελλάδα",GR: Discovery Show Case
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17397
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Crime + Investigation" tvg-logo="http://51.255.35.36/icons1/it/Standart/crime_investigation_us.png" group-title="Ελλάδα",GR: Crime + Investigation
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53929
+#EXTINF:-1 tvg-ID="natgeo.gr" tvg-name="GR: National Geographic" tvg-logo="http://51.255.35.36/icons1/gr/nat_geo_us.png" group-title="Ελλάδα",GR: National Geographic
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17402
+#EXTINF:-1 tvg-ID="natgeowild.gr" tvg-name="GR: Nat Geo Wild HD" tvg-logo="http://51.255.35.36/icons1/gr/nat_geo_us.png" group-title="Ελλάδα",GR: Nat Geo Wild HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17717
+#EXTINF:-1 tvg-ID="travelchannel.gr" tvg-name="GR: Travel Channel" tvg-logo="http://51.255.35.36/icons1/gr/travel_channel_europe.png" group-title="Ελλάδα",GR: Travel Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17403
+#EXTINF:-1 tvg-ID="historychannel.gr" tvg-name="GR: History HD" tvg-logo="http://51.255.35.36/icons1/gr/history_us.png" group-title="Ελλάδα",GR: History HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17394
+#EXTINF:-1 tvg-ID="cosmotehistory.gr" tvg-name="GR: Ote History HD" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/cosmote_gr_history.png" group-title="Ελλάδα",GR: Ote History HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27428
+#EXTINF:-1 tvg-ID="viasathistory.gr" tvg-name="GR: Viasat History" tvg-logo="http://51.255.35.36/icons1/se:/viasat_history.png" group-title="Ελλάδα",GR: Viasat History
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17570
+#EXTINF:-1 tvg-ID="viasatexplore.gr" tvg-name="GR: Viasat Explore" tvg-logo="http://51.255.35.36/icons1/se:/viasat_explore.png" group-title="Ελλάδα",GR: Viasat Explore
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17401
+#EXTINF:-1 tvg-ID="viasatnature.gr" tvg-name="GR: Viasat Nature" tvg-logo="http://51.255.35.36/icons1/se:/viasat_nature_east.png" group-title="Ελλάδα",GR: Viasat Nature
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52755
+#EXTINF:-1 tvg-ID="bbcearth.gr" tvg-name="GR: BBC Earth" tvg-logo="http://51.255.35.36/icons1/se:/bbc_earth_uk.png" group-title="Ελλάδα",GR: BBC Earth
+http://012345x.com:999/Petros.Fak/petros.f@k@as/62992
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Cbs Reality" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/cbs_reality_eu.png" group-title="Ελλάδα",GR: Cbs Reality
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19280
+#EXTINF:-1 tvg-ID="eentertainment.gr" tvg-name="GR: E! HD" tvg-logo="http://51.255.35.36/icons1/se:/e_global_us.png" group-title="Ελλάδα",GR: E! HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27936
+#EXTINF:-1 tvg-ID="Tlc" tvg-name="GR: TLC" tvg-logo="http://51.255.35.36/icons1/gr/tlc_us.png" group-title="Ελλάδα",GR: TLC
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17404
+#EXTINF:-1 tvg-ID="fashiontv.gr" tvg-name="GR: Fashion TV" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/fashion_tv_fr.png" group-title="Ελλάδα",GR: Fashion TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27432
+#EXTINF:-1 tvg-ID="Food Network HD" tvg-name="GR: FoodNetwork" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/food_network_us.png" group-title="Ελλάδα",GR: FoodNetwork
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27430
+#EXTINF:-1 tvg-ID="Nautica Channel HD" tvg-name="GR: Nautica Channel" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/nautical_channel_it.png" group-title="Ελλάδα",GR: Nautica Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27434
+#EXTINF:-1 tvg-ID="" tvg-name="GR: OutDoor" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/outdoor_channel_international.png" group-title="Ελλάδα",GR: OutDoor
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27433
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Celebrity Travel" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/Celebrity_Travel.jpeg" group-title="Ελλάδα",GR: Celebrity Travel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/105069
+#EXTINF:-1 tvg-ID="" tvg-name="GR: World Fishing Network (USA)" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/Fishing.jpg" group-title="Ελλάδα",GR: World Fishing Network (USA)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/73182
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Μουσικά -----------" tvg-logo="" group-title="Ελλάδα",---------- Μουσικά -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104536
+#EXTINF:-1 tvg-ID="" tvg-name="GR: New Greek Music" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: New Greek Music
+http://012345x.com:999/Petros.Fak/petros.f@k@as/57290
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Music Mix" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Greek Music Mix
+http://012345x.com:999/Petros.Fak/petros.f@k@as/58017
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Conserts" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Greek Conserts
+http://012345x.com:999/Petros.Fak/petros.f@k@as/57464
+#EXTINF:-1 tvg-ID="mad.gr" tvg-name="GR: Mad TV" tvg-logo="http://51.255.35.36/icons1/gr/mad_gr_tv.png" group-title="Ελλάδα",GR: Mad TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17459
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Mad Viral HD" tvg-logo="http://51.255.35.36/icons1/gr/mad_gr_tv.png" group-title="Ελλάδα",GR: Mad Viral HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17481
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Xalastra TV" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Xalastra TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/60287
+#EXTINF:-1 tvg-ID="" tvg-name="GR: NRG 91" tvg-logo="http://51.255.35.36/icons1/gr/NRG91.jpg" group-title="Ελλάδα",GR: NRG 91
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52756
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Magic TV" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/MusicLogo.png" group-title="Ελλάδα",GR: Magic TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/85624
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Tile Mousiki" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Tile Mousiki
+http://012345x.com:999/Petros.Fak/petros.f@k@as/62453
+#EXTINF:-1 tvg-ID="iconcerts.gr" tvg-name="GR: Iconcerts HD" tvg-logo="http://51.255.35.36/icons1/gr/stingray-iconcerts-ca.png" group-title="Ελλάδα",GR: Iconcerts HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52763
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Cannali Music" tvg-logo="http://51.255.35.36/icons1/gr/cannali.png" group-title="Ελλάδα",GR: Cannali Music
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18380
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Xalastra TV" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Xalastra TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87745
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Reload Play" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Reload Play
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87731
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Radio TV Pringipesa" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Radio TV Pringipesa
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87730
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Play TV" tvg-logo="http://51.255.35.36/icons1/gr/greek_music.png" group-title="Ελλάδα",GR: Play TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87728
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Baraza TV Greek Music Hits" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/MusicLogo.png" group-title="Ελλάδα",GR: Baraza TV Greek Music Hits
+http://012345x.com:999/Petros.Fak/petros.f@k@as/87699
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Old Music Clips" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/MusicLogo.png" group-title="Ελλάδα",GR: Old Music Clips
+http://012345x.com:999/Petros.Fak/petros.f@k@as/18715
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Stin Ygeia Mas re Paidia I" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/Stin_Ygia_Mas_Re_Pedia.jpg" group-title="Ελλάδα",GR: Stin Ygeia Mas re Paidia I
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109136
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Stin Ygeia Mas re Paidia II" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/Stin_Ygia_Mas_Re_Pedia.jpg" group-title="Ελλάδα",GR: Stin Ygeia Mas re Paidia II
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109156
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Σπίτι με το MEGA " tvg-logo="http://51.255.35.36/icons1/AlphaLogos/spiti-me-to-mega.png" group-title="Ελλάδα",GR: Σπίτι με το MEGA 
+http://012345x.com:999/Petros.Fak/petros.f@k@as/107341
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Rizes Ellinon" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/Rize%20Ellinon%202.jpg" group-title="Ελλάδα",GR: Rizes Ellinon
+http://012345x.com:999/Petros.Fak/petros.f@k@as/37306
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Αθλητικά -----------" tvg-logo="" group-title="Ελλάδα",---------- Αθλητικά -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104275
+#EXTINF:-1 tvg-ID="" tvg-name="GR: GiNX eSports TV (USA)" tvg-logo="http://51.255.35.36/icons1/usa:/ginx-esports-tv.png" group-title="Ελλάδα",GR: GiNX eSports TV (USA)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103251
+#EXTINF:-1 tvg-ID="FOX Sports HD" tvg-name="GR: Fox Sport TV" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/fox_sports_global.png" group-title="Ελλάδα",GR: Fox Sport TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/24701
+#EXTINF:-1 tvg-ID="MOTORS TV" tvg-name="GR: Motors TV" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/Motors%20tv.jpg" group-title="Ελλάδα",GR: Motors TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/24702
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Auto Moto HD" tvg-logo="http://51.255.35.36/icons1/it/Standart/auto_moto_tv_it.png" group-title="Ελλάδα",GR: Auto Moto HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/63003
+#EXTINF:-1 tvg-ID="motorvision.gr" tvg-name="GR: MotorVision TV HD" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/motorvision_tv_de.png" group-title="Ελλάδα",GR: MotorVision TV HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/23223
+#EXTINF:-1 tvg-ID="edgesport.gr" tvg-name="GR: EdgeSports" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/edge_sport_uk.png" group-title="Ελλάδα",GR: EdgeSports
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27429
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Ert Sport HD." tvg-logo="http://51.255.35.36/icons1/gr/ert-sports-gr.png" group-title="Ελλάδα",GR: Ert Sport HD.
+http://012345x.com:999/Petros.Fak/petros.f@k@as/68599
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="GR: Eurosport 1 HD" tvg-logo="http://51.255.35.36/icons1/gr/eurosport_fr_1.png" group-title="Ελλάδα",GR: Eurosport 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17462
+#EXTINF:-1 tvg-ID="Eurosport 2" tvg-name="GR: Eurosport 2 HD" tvg-logo="http://51.255.35.36/icons1/gr/eurosport_fr_2.png" group-title="Ελλάδα",GR: Eurosport 2 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17573
+#EXTINF:-1 tvg-ID="" tvg-name="GR: AntetokounBros TV" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/anteto.png" group-title="Ελλάδα",GR: AntetokounBros TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104513
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Euroleague Finals TV (2001-2019)" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/euroleaguetv.png" group-title="Ελλάδα",GR: Euroleague Finals TV (2001-2019)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104485
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Champions League Finals Flashback TV" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/championsleague.png" group-title="Ελλάδα",GR: Champions League Finals Flashback TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104543
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Olympiacos FC Videos" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/olympiacos.jpg" group-title="Ελλάδα",GR: Olympiacos FC Videos
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103828
+#EXTINF:-1 tvg-ID="" tvg-name="GR: PAOK FC Videos" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/paok.jpg" group-title="Ελλάδα",GR: PAOK FC Videos
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103825
+#EXTINF:-1 tvg-ID="" tvg-name="GR: AEK FC Videos" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/aek.jpg" group-title="Ελλάδα",GR: AEK FC Videos
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103827
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Panathinaikos FC Videos" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/pao.jpg" group-title="Ελλάδα",GR: Panathinaikos FC Videos
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103826
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Aris FC Videos" tvg-logo="http://51.255.35.36/icons1/AlphaLogos/aris.png" group-title="Ελλάδα",GR: Aris FC Videos
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104483
+#EXTINF:-1 tvg-ID="cosmotesport1.gr" tvg-name="GR: Ote Sport 1SD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 1SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52189
+#EXTINF:-1 tvg-ID="cosmotesport1.gr" tvg-name="GR: Ote Sport 1HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 1HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17393
+#EXTINF:-1 tvg-ID="cosmotesport1.gr" tvg-name="GR: Ote Sport 1HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 1HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106765
+#EXTINF:-1 tvg-ID="cosmotesport2.gr" tvg-name="GR: Ote Sport 2SD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 2SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52190
+#EXTINF:-1 tvg-ID="cosmotesport2.gr" tvg-name="GR: Ote Sport 2HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 2HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17482
+#EXTINF:-1 tvg-ID="cosmotesport2.gr" tvg-name="GR: Ote Sport 2HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 2HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106766
+#EXTINF:-1 tvg-ID="cosmotesport3.gr" tvg-name="GR: Ote Sport 3SD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 3SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52191
+#EXTINF:-1 tvg-ID="cosmotesport3.gr" tvg-name="GR: Ote Sport 3HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 3HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17594
+#EXTINF:-1 tvg-ID="cosmotesport3.gr" tvg-name="GR: Ote Sport 3HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 3HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106767
+#EXTINF:-1 tvg-ID="cosmotesport4.gr" tvg-name="GR: Ote Sport 4SD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 4SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52192
+#EXTINF:-1 tvg-ID="cosmotesport4.gr" tvg-name="GR: Ote Sport 4HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 4HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17599
+#EXTINF:-1 tvg-ID="cosmotesport4.gr" tvg-name="GR: Ote Sport 4HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 4HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106768
+#EXTINF:-1 tvg-ID="cosmotesport5.gr" tvg-name="GR: Ote Sport 5SD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 5SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52193
+#EXTINF:-1 tvg-ID="cosmotesport5.gr" tvg-name="GR: Ote Sport 5HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 5HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17742
+#EXTINF:-1 tvg-ID="cosmotesport5.gr" tvg-name="GR: Ote Sport 5HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 5HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106769
+#EXTINF:-1 tvg-ID="cosmotesport6.gr" tvg-name="GR: Ote Sport 6HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 6HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19215
+#EXTINF:-1 tvg-ID="cosmotesport6.gr" tvg-name="GR: Ote Sport 6HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 6HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106770
+#EXTINF:-1 tvg-ID="cosmotesport7.gr" tvg-name="GR: Ote Sport 7HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 7HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19216
+#EXTINF:-1 tvg-ID="cosmotesport8.gr" tvg-name="GR: Ote Sport 8HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 8HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19217
+#EXTINF:-1 tvg-ID="cosmotesport9hd.gr" tvg-name="GR: Ote Sport 9HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport 9HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/57214
+#EXTINF:-1 tvg-ID="cosmotesporthighlight.gr" tvg-name="GR: Ote Sport Highlights HD" tvg-logo="http://51.255.35.36/icons1/gr/ote_sport_gr.png" group-title="Ελλάδα",GR: Ote Sport Highlights HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/57253
+#EXTINF:-1 tvg-ID="" tvg-name="-----------Live Only----------" tvg-logo="" group-title="Ελλάδα",-----------Live Only----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/104542
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Nova Sports Start" tvg-logo="http://51.255.35.36/icons1/gr/nova-sports-start-gr.png" group-title="Ελλάδα",GR: Nova Sports Start
+http://012345x.com:999/Petros.Fak/petros.f@k@as/112725
+#EXTINF:-1 tvg-ID="novasportsprime.gr" tvg-name="GR: Nova Sports Prime HD" tvg-logo="http://51.255.35.36/icons1/gr/nova-sports-prime-gr.png" group-title="Ελλάδα",GR: Nova Sports Prime HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/112563
+#EXTINF:-1 tvg-ID="novasportsprime.gr" tvg-name="GR: Nova Sports Prime HD (B)" tvg-logo="http://51.255.35.36/icons1/gr/nova-sports-prime-gr.png" group-title="Ελλάδα",GR: Nova Sports Prime HD (B)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/113439
+#EXTINF:-1 tvg-ID="novasports1.gr" tvg-name="GR: Nova Sports 1SD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_1_hd.png" group-title="Ελλάδα",GR: Nova Sports 1SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52019
+#EXTINF:-1 tvg-ID="novasports1.gr" tvg-name="GR: Nova Sports 1HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_1_hd.png" group-title="Ελλάδα",GR: Nova Sports 1HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52199
+#EXTINF:-1 tvg-ID="novasports1.gr" tvg-name="GR: Nova Sports 1HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_1_hd.png" group-title="Ελλάδα",GR: Nova Sports 1HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106761
+#EXTINF:-1 tvg-ID="novasports2.gr" tvg-name="GR: Nova Sports 2SD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_2_hd.png" group-title="Ελλάδα",GR: Nova Sports 2SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52010
+#EXTINF:-1 tvg-ID="novasports2.gr" tvg-name="GR: Nova Sports 2HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_2_hd.png" group-title="Ελλάδα",GR: Nova Sports 2HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17585
+#EXTINF:-1 tvg-ID="novasports2.gr" tvg-name="GR: Nova Sports 2HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_2_hd.png" group-title="Ελλάδα",GR: Nova Sports 2HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106762
+#EXTINF:-1 tvg-ID="novasports3.gr" tvg-name="GR: Nova Sports 3SD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_3_hd.png" group-title="Ελλάδα",GR: Nova Sports 3SD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/52009
+#EXTINF:-1 tvg-ID="novasports3.gr" tvg-name="GR: Nova Sports 3HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_3_hd.png" group-title="Ελλάδα",GR: Nova Sports 3HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17587
+#EXTINF:-1 tvg-ID="novasports3.gr" tvg-name="GR: Nova Sports 3HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_3_hd.png" group-title="Ελλάδα",GR: Nova Sports 3HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106763
+#EXTINF:-1 tvg-ID="novasports4.gr" tvg-name="GR: Nova Sports 4HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_4_hd.png" group-title="Ελλάδα",GR: Nova Sports 4HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/17592
+#EXTINF:-1 tvg-ID="novasports4.gr" tvg-name="GR: Nova Sports 4HD (Backup)" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_4_hd.png" group-title="Ελλάδα",GR: Nova Sports 4HD (Backup)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/106764
+#EXTINF:-1 tvg-ID="novasports5.gr" tvg-name="GR: Nova Sports 5HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_5_hd.png" group-title="Ελλάδα",GR: Nova Sports 5HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54797
+#EXTINF:-1 tvg-ID="novasports6.gr" tvg-name="GR: Nova Sports 6HD" tvg-logo="http://51.255.35.36/icons1/gr/nova_gr_sports_6_hd.png" group-title="Ελλάδα",GR: Nova Sports 6HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/112187
+#EXTINF:-1 tvg-ID="novasportsnews.gr" tvg-name="GR: Nova Sports News" tvg-logo="http://51.255.35.36/icons1/gr/nova-sports-news-gr.png" group-title="Ελλάδα",GR: Nova Sports News
+http://012345x.com:999/Petros.Fak/petros.f@k@as/27559
+#EXTINF:-1 tvg-ID="" tvg-name="======Cinema======" tvg-logo="http://dna-iptv.com:999/images/0fb075a92500579786c739c7d37a6357.png" group-title="Ελληνικό Σινεμά",======Cinema======
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53912
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Greek Cinema ----------" tvg-logo="" group-title="Ελληνικό Σινεμά",---------- Greek Cinema ----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/62450
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Old Movies 1" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Greek Old Movies 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/102936
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Old Movies 2" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Greek Old Movies 2
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103820
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Old Movies 3" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Greek Old Movies 3
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103878
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Greek Old Movies 4" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Greek Old Movies 4
+http://012345x.com:999/Petros.Fak/petros.f@k@as/103910
+#EXTINF:-1 tvg-ID="" tvg-name="------------- Theatro -------------" tvg-logo="" group-title="Ελληνικό Σινεμά",------------- Theatro -------------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53933
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Elliniko Theatro 1" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Elliniko Theatro 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109575
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Elliniko Theatro 2" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Elliniko Theatro 2
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54942
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Elliniko Theatro 3" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Elliniko Theatro 3
+http://012345x.com:999/Petros.Fak/petros.f@k@as/55114
+#EXTINF:-1 tvg-ID="" tvg-name="------------- Seires -------------" tvg-logo="" group-title="Ελληνικό Σινεμά",------------- Seires -------------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53918
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Kati Xorismena Palikaria" tvg-logo="http://dna-iptv.com:999/images/0fb075a92500579786c739c7d37a6357.png" group-title="Ελληνικό Σινεμά",GR: Kati Xorismena Palikaria
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53932
+#EXTINF:-1 tvg-ID="" tvg-name="------------ Funny Tv ------------" tvg-logo="" group-title="Ελληνικό Σινεμά",------------ Funny Tv ------------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65510
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Mr. Bean" tvg-logo="" group-title="Ελληνικό Σινεμά",GR: Mr. Bean
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65451
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Plaka Kanis" tvg-logo="http://dna-iptv.com:999/images/0fb075a92500579786c739c7d37a6357.png" group-title="Ελληνικό Σινεμά",GR: Plaka Kanis
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65509
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Al Tsantiri" tvg-logo="http://dna-iptv.com:999/images/0fb075a92500579786c739c7d37a6357.png" group-title="Ελληνικό Σινεμά",GR: Al Tsantiri
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65511
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Americas Funniest Home Video" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: Americas Funniest Home Video
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65512
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Jackass" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: Jackass
+http://012345x.com:999/Petros.Fak/petros.f@k@as/65513
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Friends" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: Friends
+http://012345x.com:999/Petros.Fak/petros.f@k@as/55667
+#EXTINF:-1 tvg-ID="" tvg-name="---------- New Cinema ----------" tvg-logo="" group-title="Ελληνικό Σινεμά",---------- New Cinema ----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/62451
+#EXTINF:-1 tvg-ID="" tvg-name="GR: New Cinema 1HD" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: New Cinema 1HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53830
+#EXTINF:-1 tvg-ID="" tvg-name="GR: New Cinema 2HD" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: New Cinema 2HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53831
+#EXTINF:-1 tvg-ID="" tvg-name="GR: New Cinema 7HD" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: New Cinema 7HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53921
+#EXTINF:-1 tvg-ID="" tvg-name="---------- Star Cinema ----------" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",---------- Star Cinema ----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/62452
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Star 3D Cinema" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: Star 3D Cinema
+http://012345x.com:999/Petros.Fak/petros.f@k@as/37364
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Star Cinema" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: Star Cinema
+http://012345x.com:999/Petros.Fak/petros.f@k@as/19070
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Western Cinema 1" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: Western Cinema 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53931
+#EXTINF:-1 tvg-ID="" tvg-name="GR: Western Cinema 2" tvg-logo="http://dna-iptv.com:999/images/c29c2dad73e88a99ff81b74f1b379435.png" group-title="Ελληνικό Σινεμά",GR: Western Cinema 2
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53970
+#EXTINF:-1 tvg-ID="" tvg-name="==========Germany==========" tvg-logo="http://51.255.35.36/icons1/de/German_Flag.png" group-title="Germany",==========Germany==========
+http://012345x.com:999/Petros.Fak/petros.f@k@as/7232
+#EXTINF:-1 tvg-ID="ard.de" tvg-name="DE: Das Erste HD" tvg-logo="http://51.255.35.36/icons1/de/ard_das_erste.png" group-title="Germany",DE: Das Erste HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45740
+#EXTINF:-1 tvg-ID="zdf.de" tvg-name="DE: ZDF HD" tvg-logo="http://51.255.35.36/icons1/de/zdf_de.png" group-title="Germany",DE: ZDF HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45739
+#EXTINF:-1 tvg-ID="rtl2.de" tvg-name="DE: RTL Zwei HD" tvg-logo="http://51.255.35.36/icons1/de/rtl2_de.png" group-title="Germany",DE: RTL Zwei HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45723
+#EXTINF:-1 tvg-ID="vox.de" tvg-name="DE: VOX HD" tvg-logo="http://51.255.35.36/icons1/de/vox_de.png" group-title="Germany",DE: VOX HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45730
+#EXTINF:-1 tvg-ID="sat1.de" tvg-name="DE: Sat.1 HD" tvg-logo="http://51.255.35.36/icons1/de/sat1_de.png" group-title="Germany",DE: Sat.1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45728
+#EXTINF:-1 tvg-ID="rtl.de" tvg-name="DE: RTL HD" tvg-logo="http://51.255.35.36/icons1/de/rtl_de.png" group-title="Germany",DE: RTL HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45724
+#EXTINF:-1 tvg-ID="pro7.de" tvg-name="DE: Pro Sieben HD" tvg-logo="http://51.255.35.36/icons1/de/pro_sieben_de.png" group-title="Germany",DE: Pro Sieben HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45726
+#EXTINF:-1 tvg-ID="dmax.de" tvg-name="DE: DMAX HD" tvg-logo="http://51.255.35.36/icons1/de/dmax_de.png" group-title="Germany",DE: DMAX HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45732
+#EXTINF:-1 tvg-ID="kabel1.de" tvg-name="DE: Kabel Eins HD" tvg-logo="http://51.255.35.36/icons1/de/kabel_eins_de.png" group-title="Germany",DE: Kabel Eins HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45729
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="DE: N-TV FHD" tvg-logo="http://51.255.35.36/icons1/de/ntv_de.png" group-title="Germany",DE: N-TV FHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109008
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="DE: N-TV HD" tvg-logo="http://51.255.35.36/icons1/de/ntv_de.png" group-title="Germany",DE: N-TV HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45734
+#EXTINF:-1 tvg-ID="rtlpassion.de" tvg-name="DE: RTL Passion HD" tvg-logo="http://51.255.35.36/icons1/de/rtl_passion_hr.png" group-title="Germany",DE: RTL Passion HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45722
+#EXTINF:-1 tvg-ID="sat1gold.de" tvg-name="DE: Sat.1 Gold HD" tvg-logo="http://51.255.35.36/icons1/de/sat1_de_gold.png" group-title="Germany",DE: Sat.1 Gold HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53334
+#EXTINF:-1 tvg-ID="prosiebenfun.de" tvg-name="DE: Pro Sieben Fun HD" tvg-logo="http://51.255.35.36/icons1/de/pro_sieben_de.png" group-title="Germany",DE: Pro Sieben Fun HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108954
+#EXTINF:-1 tvg-ID="prosiebenmaxx.de" tvg-name="DE: Pro Sieben MAXX HD" tvg-logo="http://51.255.35.36/icons1/de/pro_sieben_maxx_de.png" group-title="Germany",DE: Pro Sieben MAXX HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45725
+#EXTINF:-1 tvg-ID="sat1emotions.de" tvg-name="DE: Sat.1 Emotions" tvg-logo="http://51.255.35.36/icons1/de/sat1_de.png" group-title="Germany",DE: Sat.1 Emotions
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108955
+#EXTINF:-1 tvg-ID="kabeleinsclassic.de" tvg-name="DE: Kabel Eins Classics HD" tvg-logo="http://51.255.35.36/icons1/de/kabel_eins_de.png" group-title="Germany",DE: Kabel Eins Classics HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108952
+#EXTINF:-1 tvg-ID="" tvg-name="DE: VOX Up" tvg-logo="http://51.255.35.36/icons1/de/vox_de.png" group-title="Germany",DE: VOX Up
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108956
+#EXTINF:-1 tvg-ID="sixx.de" tvg-name="DE: Sixx HD" tvg-logo="http://51.255.35.36/icons1/de/sixx.png" group-title="Germany",DE: Sixx HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45660
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="DE: 3SAT HD" tvg-logo="http://51.255.35.36/icons1/de/3sat_de.png" group-title="Germany",DE: 3SAT HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45737
+#EXTINF:-1 tvg-ID="arte.de" tvg-name="DE: Arte HD" tvg-logo="http://51.255.35.36/icons1/de/arte_de.png" group-title="Germany",DE: Arte HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45736
+#EXTINF:-1 tvg-ID="wdr.de" tvg-name="DE: WDR HD" tvg-logo="http://51.255.35.36/icons1/de/wdr_koln.png" group-title="Germany",DE: WDR HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45738
+#EXTINF:-1 tvg-ID="tagesschau24.de" tvg-name="DE: Tagesschau 24 HD" tvg-logo="" group-title="Germany",DE: Tagesschau 24 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108990
+#EXTINF:-1 tvg-ID="kabeleinsdoku.de" tvg-name="DE: Kabel Eins Doku" tvg-logo="http://51.255.35.36/icons1/de/kabel_eins_de.png" group-title="Germany",DE: Kabel Eins Doku
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108951
+#EXTINF:-1 tvg-ID="zdfinfo.de" tvg-name="DE: ZDF Info HD" tvg-logo="http://51.255.35.36/icons1/de/zdf_info.png" group-title="Germany",DE: ZDF Info HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45655
+#EXTINF:-1 tvg-ID="zdfneo.de" tvg-name="DE: ZDF Neo HD" tvg-logo="http://51.255.35.36/icons1/de/zdf_neo.png" group-title="Germany",DE: ZDF Neo HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45654
+#EXTINF:-1 tvg-ID="phoenix.de" tvg-name="DE: Phoenix" tvg-logo="" group-title="Germany",DE: Phoenix
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108561
+#EXTINF:-1 tvg-ID="ndr.de" tvg-name="DE: NDR HD" tvg-logo="http://51.255.35.36/icons1/de/ndr_fernsehen_hh.png" group-title="Germany",DE: NDR HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45733
+#EXTINF:-1 tvg-ID="rtlplus.de" tvg-name="DE: RTL Plus HD" tvg-logo="http://51.255.35.36/icons1/de/rtl_de.png" group-title="Germany",DE: RTL Plus HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45719
+#EXTINF:-1 tvg-ID="rtlcrime.de" tvg-name="DE: RTL Crime HD" tvg-logo="http://51.255.35.36/icons1/de/rtl_crime_de.png" group-title="Germany",DE: RTL Crime HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45720
+#EXTINF:-1 tvg-ID="rtlnitro.de" tvg-name="DE: RTL Nitro HD" tvg-logo="http://51.255.35.36/icons1/de/rtl_nitro_de.png" group-title="Germany",DE: RTL Nitro HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45721
+#EXTINF:-1 tvg-ID="rtlliving.de" tvg-name="DE: RTL Living HD" tvg-logo="http://51.255.35.36/icons1/de/rtl_de.png" group-title="Germany",DE: RTL Living HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108950
+#EXTINF:-1 tvg-ID="orf1.de" tvg-name="DE: ORF 1 HD" tvg-logo="http://51.255.35.36/icons1/de/orf_eins.png" group-title="Germany",DE: ORF 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45717
+#EXTINF:-1 tvg-ID="orf2.de" tvg-name="DE: ORF 2 HD" tvg-logo="http://icons.alphacs.tv/icons1/de/orf_2_at.png" group-title="Germany",DE: ORF 2 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45716
+#EXTINF:-1 tvg-ID="n24.de" tvg-name="DE: N24 Doku HD" tvg-logo="http://51.255.35.36/icons1/de/n24_de.png" group-title="Germany",DE: N24 Doku HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45735
+#EXTINF:-1 tvg-ID="anixe.de" tvg-name="DE: Anixe Serie HD" tvg-logo="http://51.255.35.36/icons1/de/anixe_hd_serie.png" group-title="Germany",DE: Anixe Serie HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45658
+#EXTINF:-1 tvg-ID="welt.de" tvg-name="DE: Welt HD" tvg-logo="http://51.255.35.36/icons1/de/welt-de.png" group-title="Germany",DE: Welt HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53270
+#EXTINF:-1 tvg-ID="tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="http://51.255.35.36/icons1/de/tele5_de.png" group-title="Germany",DE: TELE 5 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53280
+#EXTINF:-1 tvg-ID="swrsr.de" tvg-name="DE: SWRHD" tvg-logo="http://51.255.35.36/icons1/de/swr_de_fernsehen_bw.png" group-title="Germany",DE: SWRHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53282
+#EXTINF:-1 tvg-ID="heimatkanal.de" tvg-name="DE: Heimatkanal" tvg-logo="http://51.255.35.36/icons1/de/heimatkanal_de.png" group-title="Germany",DE: Heimatkanal
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54111
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Servus TV" tvg-logo="" group-title="Germany",DE: Servus TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109018
+#EXTINF:-1 tvg-ID="rbb.de" tvg-name="DE: RBB" tvg-logo="" group-title="Germany",DE: RBB
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109017
+#EXTINF:-1 tvg-ID="qvc.de" tvg-name="DE: QVC" tvg-logo="" group-title="Germany",DE: QVC
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109015
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Pearl TV" tvg-logo="" group-title="Germany",DE: Pearl TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109014
+#EXTINF:-1 tvg-ID="" tvg-name="DE: HR Fernsehen" tvg-logo="" group-title="Germany",DE: HR Fernsehen
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109002
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Euronews" tvg-logo="" group-title="Germany",DE: Euronews
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109036
+#EXTINF:-1 tvg-ID="br.de" tvg-name="DE: BR" tvg-logo="" group-title="Germany",DE: BR
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108992
+#EXTINF:-1 tvg-ID="" tvg-name="---------- SKY Pack ----------" tvg-logo="" group-title="Germany",---------- SKY Pack ----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/51993
+#EXTINF:-1 tvg-ID="sky1.de" tvg-name="DE: Sky 1" tvg-logo="" group-title="Germany",DE: Sky 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109020
+#EXTINF:-1 tvg-ID="skycinemaplus24.de" tvg-name="DE: Sky Cinema Premieren +24" tvg-logo="http://51.255.35.36/icons1/de/sky_de_cinema_plus24.png" group-title="Germany",DE: Sky Cinema Premieren +24
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45705
+#EXTINF:-1 tvg-ID="skycinemaaction.de" tvg-name="DE: Sky Cinema Action HD" tvg-logo="http://51.255.35.36/icons1/de/sky_de_cinema_action.png" group-title="Germany",DE: Sky Cinema Action HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45704
+#EXTINF:-1 tvg-ID="skyatlantic.de" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://51.255.35.36/icons1/de/sky_de_atlantic_hd.png" group-title="Germany",DE: Sky Atlantic HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53330
+#EXTINF:-1 tvg-ID="skycinemafamily.de" tvg-name="DE: Sky Cinema Family HD" tvg-logo="http://51.255.35.36/icons1/de/sky-cinema-family-uk.png" group-title="Germany",DE: Sky Cinema Family HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45701
+#EXTINF:-1 tvg-ID="skyserienandshows.de" tvg-name="DE: Sky Serien & Shows" tvg-logo="" group-title="Germany",DE: Sky Serien & Shows
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109021
+#EXTINF:-1 tvg-ID="skycinemathrillerhd.de" tvg-name="DE: Sky Cinema Thriller" tvg-logo="http://51.255.35.36/icons1/de/sky_de_cinema_plus1.png" group-title="Germany",DE: Sky Cinema Thriller
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108814
+#EXTINF:-1 tvg-ID="skycinemaspecial.de" tvg-name="DE: Sky Cinema Special" tvg-logo="" group-title="Germany",DE: Sky Cinema Special
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108813
+#EXTINF:-1 tvg-ID="skycinemapremieren.de" tvg-name="DE: Sky Cinema Premieren" tvg-logo="" group-title="Germany",DE: Sky Cinema Premieren
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108811
+#EXTINF:-1 tvg-ID="skycinemafun.de" tvg-name="DE: Sky Cinema Fun" tvg-logo="http://51.255.35.36/icons1/de/sky_de_cinema_comedy.png" group-title="Germany",DE: Sky Cinema Fun
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108810
+#EXTINF:-1 tvg-ID="skycinemaclassics.de" tvg-name="DE: Sky Cinema Classics" tvg-logo="" group-title="Germany",DE: Sky Cinema Classics
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108807
+#EXTINF:-1 tvg-ID="skycinemabestof.de" tvg-name="DE: Sky Cinema Best Of" tvg-logo="http://51.255.35.36/icons1/de/sky_de_cinema_hits.png" group-title="Germany",DE: Sky Cinema Best Of
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108806
+#EXTINF:-1 tvg-ID="skycomedyhd.de" tvg-name="DE: Sky Comedy HD" tvg-logo="" group-title="Germany",DE: Sky Comedy HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/110241
+#EXTINF:-1 tvg-ID="skycrimehd.de" tvg-name="DE: Sky Crime HD" tvg-logo="" group-title="Germany",DE: Sky Crime HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/110242
+#EXTINF:-1 tvg-ID="skykrimi.de" tvg-name="DE: Sky Krimi" tvg-logo="http://51.255.35.36/icons1/de/sky_de_krimi.png" group-title="Germany",DE: Sky Krimi
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54115
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TNT Film HD" tvg-logo="http://51.255.35.36/icons1/de/tnt_us_film.png" group-title="Germany",DE: TNT Film HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53276
+#EXTINF:-1 tvg-ID="tntcomedy.de" tvg-name="DE: TNT Comedy HD" tvg-logo="http://51.255.35.36/icons1/de/tnt_us_comedy.png" group-title="Germany",DE: TNT Comedy HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53277
+#EXTINF:-1 tvg-ID="tntserie.de" tvg-name="DE: TNT Serie HD" tvg-logo="http://51.255.35.36/icons1/de/tnt_us_serie.png" group-title="Germany",DE: TNT Serie HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45664
+#EXTINF:-1 tvg-ID="one.de" tvg-name="DE: One HD" tvg-logo="" group-title="Germany",DE: One HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109012
+#EXTINF:-1 tvg-ID="comedycentral.de" tvg-name="DE: Comedy Central" tvg-logo="" group-title="Germany",DE: Comedy Central
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108993
+#EXTINF:-1 tvg-ID="13thstreet.de" tvg-name="DE: 13TH Street HD" tvg-logo="http://51.255.35.36/icons1/de/13th_street_de.png" group-title="Germany",DE: 13TH Street HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45667
+#EXTINF:-1 tvg-ID="syfy.de" tvg-name="DE: SYFY HD" tvg-logo="http://51.255.35.36/icons1/de/syfy_us_global.png" group-title="Germany",DE: SYFY HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45666
+#EXTINF:-1 tvg-ID="fox.de" tvg-name="DE: Fox HD" tvg-logo="http://51.255.35.36/icons1/de/fox_global.png" group-title="Germany",DE: Fox HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45718
+#EXTINF:-1 tvg-ID="kinowelt.de" tvg-name="DE: Kinowelt TV HD" tvg-logo="http://51.255.35.36/icons1/de/kinowelt_tv.png" group-title="Germany",DE: Kinowelt TV HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45661
+#EXTINF:-1 tvg-ID="romance.de" tvg-name="DE: Romance TV HD" tvg-logo="http://51.255.35.36/icons1/de/romance_tv_de.png" group-title="Germany",DE: Romance TV HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54110
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Universal Channel HD" tvg-logo="http://51.255.35.36/icons1/de/universal_channel_global.png" group-title="Germany",DE: Universal Channel HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53274
+#EXTINF:-1 tvg-ID="sonyentertainmenttv.de" tvg-name="DE: Sony Channel" tvg-logo="" group-title="Germany",DE: Sony Channel
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109024
+#EXTINF:-1 tvg-ID="sonyaxn.de" tvg-name="DE: Sony AXN" tvg-logo="" group-title="Germany",DE: Sony AXN
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109023
+#EXTINF:-1 tvg-ID="silverline.de" tvg-name="DE: Silverline Cinema" tvg-logo="" group-title="Germany",DE: Silverline Cinema
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109019
+#EXTINF:-1 tvg-ID="tlc.de" tvg-name="DE: TLC" tvg-logo="http://51.255.35.36/icons1/usa:/tlc_de.png" group-title="Germany",DE: TLC
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53278
+#EXTINF:-1 tvg-ID="eentertainment.de" tvg-name="DE: E! Entertement" tvg-logo="http://51.255.35.36/icons1/de/e_global_us.png" group-title="Germany",DE: E! Entertement
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53378
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Krone Hit TV" tvg-logo="" group-title="Germany",DE: Krone Hit TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109005
+#EXTINF:-1 tvg-ID="jukebox.de" tvg-name="DE: Jukebox" tvg-logo="" group-title="Germany",DE: Jukebox
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109003
+#EXTINF:-1 tvg-ID="mtvgermany.de" tvg-name="DE: MTV" tvg-logo="" group-title="Germany",DE: MTV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109007
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Schlager Deluxe" tvg-logo="" group-title="Germany",DE: Schlager Deluxe
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109107
+#EXTINF:-1 tvg-ID="deutschesmusikfernsehen.de" tvg-name="DE: Deutsches Musik Fernsehen" tvg-logo="" group-title="Germany",DE: Deutsches Musik Fernsehen
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108995
+#EXTINF:-1 tvg-ID="deluxemusic.de" tvg-name="DE: Deluxe Music HD" tvg-logo="http://51.255.35.36/icons1/de/deluxe_music_de.png" group-title="Germany",DE: Deluxe Music HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53384
+#EXTINF:-1 tvg-ID="classica.de" tvg-name="DE: Classica" tvg-logo="http://51.255.35.36/icons1/de/classica_de.png" group-title="Germany",DE: Classica
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54113
+#EXTINF:-1 tvg-ID="" tvg-name="--------- Filmkanäle ---------" tvg-logo="" group-title="Germany",--------- Filmkanäle ---------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108072
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PopCorn Select 1 HD" tvg-logo="" group-title="Germany",DE: PopCorn Select 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109427
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PopCorn Select 2 HD" tvg-logo="" group-title="Germany",DE: PopCorn Select 2 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109426
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PopCorn Select 3 HD" tvg-logo="" group-title="Germany",DE: PopCorn Select 3 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109425
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PopCorn Select 4 HD" tvg-logo="" group-title="Germany",DE: PopCorn Select 4 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109424
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PopCorn Select 5 HD" tvg-logo="" group-title="Germany",DE: PopCorn Select 5 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109423
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PopCorn Select 6 HD" tvg-logo="" group-title="Germany",DE: PopCorn Select 6 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109422
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 1 UHD" tvg-logo="" group-title="Germany",DE: Sky Select 1 UHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109421
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 2 UHD" tvg-logo="" group-title="Germany",DE: Sky Select 2 UHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109420
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 3 UHD" tvg-logo="" group-title="Germany",DE: Sky Select 3 UHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109419
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 4 UHD" tvg-logo="" group-title="Germany",DE: Sky Select 4 UHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109418
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 5 HD" tvg-logo="" group-title="Germany",DE: Sky Select 5 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109417
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 6 UHD" tvg-logo="" group-title="Germany",DE: Sky Select 6 UHD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109416
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Select 8 HD" tvg-logo="" group-title="Germany",DE: Sky Select 8 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109414
+#EXTINF:-1 tvg-ID="" tvg-name="----------- Dokus -----------" tvg-logo="" group-title="Germany",----------- Dokus -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53412
+#EXTINF:-1 tvg-ID="animalplanet.de" tvg-name="DE: Animal Planet" tvg-logo="" group-title="Germany",DE: Animal Planet
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108991
+#EXTINF:-1 tvg-ID="natgeowild.de" tvg-name="DE: Nat Geo Wild HD" tvg-logo="http://51.255.35.36/icons1/de/nat_geo_wild_us.png" group-title="Germany",DE: Nat Geo Wild HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45670
+#EXTINF:-1 tvg-ID="natgeo.de" tvg-name="DE: Nationa Geographic HD" tvg-logo="http://51.255.35.36/icons1/de/nat_geo_us.png" group-title="Germany",DE: Nationa Geographic HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45672
+#EXTINF:-1 tvg-ID="discoverychannel.de" tvg-name="DE: Discovery Channel  HD" tvg-logo="http://51.255.35.36/icons1/de/discovery_global_us.png" group-title="Germany",DE: Discovery Channel  HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53382
+#EXTINF:-1 tvg-ID="history.de" tvg-name="DE: History Channel HD" tvg-logo="http://51.255.35.36/icons1/de/history_us.png" group-title="Germany",DE: History Channel HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45668
+#EXTINF:-1 tvg-ID="crimeplusinvestigation.de" tvg-name="DE: Crime & Investigation" tvg-logo="" group-title="Germany",DE: Crime & Investigation
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108994
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Geo HD" tvg-logo="" group-title="Germany",DE: Geo HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109109
+#EXTINF:-1 tvg-ID="hgtv.de" tvg-name="DE: HGTV" tvg-logo="" group-title="Germany",DE: HGTV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109001
+#EXTINF:-1 tvg-ID="fixandfoxi.de" tvg-name="DE: Fix & Foxi" tvg-logo="" group-title="Germany",DE: Fix & Foxi
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109000
+#EXTINF:-1 tvg-ID="spiegeltvwissen.de" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="http://51.255.35.36/icons1/de/spiegel_tv_de_wissen.png" group-title="Germany",DE: Spiegel TV Wissen HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53284
+#EXTINF:-1 tvg-ID="spiegeltvwissen.de" tvg-name="DE: Spiegel TV Wissen" tvg-logo="http://51.255.35.36/icons1/de/spiegel_tv_de_wissen.png" group-title="Germany",DE: Spiegel TV Wissen
+http://012345x.com:999/Petros.Fak/petros.f@k@as/54109
+#EXTINF:-1 tvg-ID="spiegelgeschichte.de" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="http://51.255.35.36/icons1/de/spiegel_tv_de_geschichte.png" group-title="Germany",DE: Spiegel Geschichte HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45662
+#EXTINF:-1 tvg-ID="" tvg-name="----------- Kids -----------" tvg-logo="" group-title="Germany",----------- Kids -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/51994
+#EXTINF:-1 tvg-ID="nickelodeon.de" tvg-name="DE: Nickeloadeon HD" tvg-logo="http://51.255.35.36/icons1/usa:/nickelodeon_us_hd.png" group-title="Germany",DE: Nickeloadeon HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45712
+#EXTINF:-1 tvg-ID="kika.de" tvg-name="DE: Kika HD" tvg-logo="http://51.255.35.36/icons1/de/kika_de.png" group-title="Germany",DE: Kika HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45709
+#EXTINF:-1 tvg-ID="cartoonnetwork.de" tvg-name="DE: Cartoon Network" tvg-logo="http://51.255.35.36/icons1/usa:/cartoon_network_global.png" group-title="Germany",DE: Cartoon Network
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45714
+#EXTINF:-1 tvg-ID="boomerang.de" tvg-name="DE: Boomerang" tvg-logo="http://51.255.35.36/icons1/de/boomerang_global.png" group-title="Germany",DE: Boomerang
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45708
+#EXTINF:-1 tvg-ID="disneychannel.de" tvg-name="DE: Disney Channel HD" tvg-logo="http://51.255.35.36/icons1/de/disney_channel_global.png" group-title="Germany",DE: Disney Channel HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53381
+#EXTINF:-1 tvg-ID="nicktoons.de" tvg-name="DE: NickToons" tvg-logo="" group-title="Germany",DE: NickToons
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109010
+#EXTINF:-1 tvg-ID="nickjr.de" tvg-name="DE: Nick Jr" tvg-logo="" group-title="Germany",DE: Nick Jr
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109009
+#EXTINF:-1 tvg-ID="superrtl.de" tvg-name="DE: Super RTL HD" tvg-logo="http://51.255.35.36/icons1/de/super_rtl_de.png" group-title="Germany",DE: Super RTL HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53283
+#EXTINF:-1 tvg-ID="junior.de" tvg-name="DE: Junior" tvg-logo="" group-title="Germany",DE: Junior
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109004
+#EXTINF:-1 tvg-ID="toggoplus.de" tvg-name="DE: Toggo Plus" tvg-logo="http://51.255.35.36/icons1/de/toggo_plus_de.png" group-title="Germany",DE: Toggo Plus
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45710
+#EXTINF:-1 tvg-ID="disneyjunior.de" tvg-name="DE: Disney Junior HD" tvg-logo="http://51.255.35.36/icons1/de/disney_junior_us.png" group-title="Germany",DE: Disney Junior HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53379
+#EXTINF:-1 tvg-ID="" tvg-name="----------- Sport -----------" tvg-logo="" group-title="Germany",----------- Sport -----------
+http://012345x.com:999/Petros.Fak/petros.f@k@as/51995
+#EXTINF:-1 tvg-ID="motorvision.de" tvg-name="DE: Motorvision HD" tvg-logo="http://51.255.35.36/icons1/de/motorvision_tv_de.png" group-title="Germany",DE: Motorvision HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53385
+#EXTINF:-1 tvg-ID="automotorundsportchannel.de" tvg-name="DE: Auto Motor Sport HD" tvg-logo="" group-title="Germany",DE: Auto Motor Sport HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109037
+#EXTINF:-1 tvg-ID="eurosport1.de" tvg-name="DE: Eurosport 1 HD" tvg-logo="http://51.255.35.36/icons1/de/eurosport_fr_1.png" group-title="Germany",DE: Eurosport 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45674
+#EXTINF:-1 tvg-ID="eurosport2.de" tvg-name="DE: Eurosport 2 HD" tvg-logo="http://51.255.35.36/icons1/de/eurosport_fr_2.png" group-title="Germany",DE: Eurosport 2 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45673
+#EXTINF:-1 tvg-ID="sport1.de" tvg-name="DE: Sport1" tvg-logo="" group-title="Germany",DE: Sport1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109026
+#EXTINF:-1 tvg-ID="axn.de" tvg-name="DE: Sport1+ HD" tvg-logo="" group-title="Germany",DE: Sport1+ HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109027
+#EXTINF:-1 tvg-ID="sportdigital.de" tvg-name="DE: Sport Digital" tvg-logo="" group-title="Germany",DE: Sport Digital
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109025
+#EXTINF:-1 tvg-ID="fcbayern.de" tvg-name="DE: FC Bayern TV" tvg-logo="" group-title="Germany",DE: FC Bayern TV
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108999
+#EXTINF:-1 tvg-ID="" tvg-name="DE: eSports 1 HD" tvg-logo="" group-title="Germany",DE: eSports 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/108997
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="DE: Dazn 1" tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="Germany",DE: Dazn 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53387
+#EXTINF:-1 tvg-ID="dazn.de" tvg-name="DE: Dazn 2" tvg-logo="http://51.255.35.36/icons1/de/dazn-de.png" group-title="Germany",DE: Dazn 2
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53386
+#EXTINF:-1 tvg-ID="skysportsnewshd.de" tvg-name="DE: Sky Sport News HD" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_news.png" group-title="Germany",DE: Sky Sport News HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/53286
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport F1" tvg-logo="" group-title="Germany",DE: Sky Sport F1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109108
+#EXTINF:-1 tvg-ID="skysport1.de" tvg-name="DE: Sky Sport 1 HD" tvg-logo="http://icons.alphacs.tv/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45685
+#EXTINF:-1 tvg-ID="skysport2.de" tvg-name="DE: Sky Sport 2 HD" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 2 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45684
+#EXTINF:-1 tvg-ID="skysport3.de" tvg-name="DE: Sky Sport 3 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 3 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45683
+#EXTINF:-1 tvg-ID="skysport4.de" tvg-name="DE: Sky Sport 4 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 4 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45682
+#EXTINF:-1 tvg-ID="skysport5.de" tvg-name="DE: Sky Sport 5 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 5 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45681
+#EXTINF:-1 tvg-ID="skysport6.de" tvg-name="DE: Sky Sport 6 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 6 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45680
+#EXTINF:-1 tvg-ID="skysport7.de" tvg-name="DE: Sky Sport 7 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 7 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45679
+#EXTINF:-1 tvg-ID="skysport8.de" tvg-name="DE: Sky Sport 8 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 8 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45678
+#EXTINF:-1 tvg-ID="skysport9.de" tvg-name="DE: Sky Sport 9 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 9 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45677
+#EXTINF:-1 tvg-ID="skysport10.de" tvg-name="DE: Sky Sport 10 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport.png" group-title="Germany",DE: Sky Sport 10 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45676
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Sky Sport Austria HD" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_austria.png" group-title="Germany",DE: Sky Sport Austria HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45686
+#EXTINF:-1 tvg-ID="skybundesliga1.de" tvg-name="DE: Sky Sport Bundesliga 1 HD" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 1 HD
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45696
+#EXTINF:-1 tvg-ID="skybundesliga2.de" tvg-name="DE: Sky Sport Bundesliga 2 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 2 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45695
+#EXTINF:-1 tvg-ID="skybundesliga3.de" tvg-name="DE: Sky Sport Bundesliga 3 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 3 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45694
+#EXTINF:-1 tvg-ID="skybundesliga4.de" tvg-name="DE: Sky Sport Bundesliga 4 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 4 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45693
+#EXTINF:-1 tvg-ID="skybundesliga5.de" tvg-name="DE: Sky Sport Bundesliga 5 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 5 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45692
+#EXTINF:-1 tvg-ID="skybundesliga6.de" tvg-name="DE: Sky Sport Bundesliga 6 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 6 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45691
+#EXTINF:-1 tvg-ID="skybundesliga7.de" tvg-name="DE: Sky Sport Bundesliga 7 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 7 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45690
+#EXTINF:-1 tvg-ID="skybundesliga8.de" tvg-name="DE: Sky Sport Bundesliga 8 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 8 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45689
+#EXTINF:-1 tvg-ID="skybundesliga9.de" tvg-name="DE: Sky Sport Bundesliga 9 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 9 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45688
+#EXTINF:-1 tvg-ID="skybundesliga10.de" tvg-name="DE: Sky Sport Bundesliga 10 HD (Match Time)" tvg-logo="http://51.255.35.36/icons1/de/sky_de_sport_bundesliga.png" group-title="Germany",DE: Sky Sport Bundesliga 10 HD (Match Time)
+http://012345x.com:999/Petros.Fak/petros.f@k@as/45687
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 1" tvg-logo="" group-title="Germany",DE: Telekom Basketball 1
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109033
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 2" tvg-logo="" group-title="Germany",DE: Telekom Basketball 2
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109034
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Basketball 3" tvg-logo="" group-title="Germany",DE: Telekom Basketball 3
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109035
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Fussbal 1 HD ( Bundesliga 3 )" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 1 HD ( Bundesliga 3 )
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109028
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Fussbal 2 HD ( Bundesliga 3 )" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 2 HD ( Bundesliga 3 )
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109029
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Fussbal 3 HD ( Bundesliga 3 )" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 3 HD ( Bundesliga 3 )
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109030
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Fussbal 4 HD ( Bundesliga 3 )" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 4 HD ( Bundesliga 3 )
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109031
+#EXTINF:-1 tvg-ID="" tvg-name="DE: Telekom Fussbal 5 HD ( Bundesliga 3 )" tvg-logo="" group-title="Germany",DE: Telekom Fussbal 5 HD ( Bundesliga 3 )
+http://012345x.com:999/Petros.Fak/petros.f@k@as/109032
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Alvin And The Chipmunks" tvg-logo="http://dna-iptv.com:999/images/0952640.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Alvin And The Chipmunks
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18204.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Alvin And The Chipmunks 3 Chip Wrecked" tvg-logo="http://dna-iptv.com:999/images/1615918.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Alvin And The Chipmunks 3 Chip Wrecked
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18219.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Alvin And The Chipmunks The Road Chip" tvg-logo="http://dna-iptv.com:999/images/2974918.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Alvin And The Chipmunks The Road Chip
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18189.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Angry Birds" tvg-logo="http://dna-iptv.com:999/images/2317859.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Angry Birds
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18234.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Brave Heart" tvg-logo="http://dna-iptv.com:999/images/2324721.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Brave Heart
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18191.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Brother Bear" tvg-logo="http://dna-iptv.com:999/images/1664858.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Brother Bear
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18235.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Cars" tvg-logo="http://012345x.com:999/images/leJolLGQP9VDf6E12FWKM38sUVe_big.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Cars
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18205.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Cars 2" tvg-logo="http://dna-iptv.com:999/images/0918813.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Cars 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18221.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Casper" tvg-logo="http://dna-iptv.com:999/images/3511544.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Casper
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18249.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Cloudy With A Chance Of Meatballs" tvg-logo="http://dna-iptv.com:999/images/0844471.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Cloudy With A Chance Of Meatballs
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18236.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Cloudy With A Chance Of Meatballs 2" tvg-logo="http://dna-iptv.com:999/images/1985966.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Cloudy With A Chance Of Meatballs 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18250.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Despicable Me" tvg-logo="http://dna-iptv.com:999/images/1323594.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Despicable Me
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18222.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Despicable Me 2" tvg-logo="http://dna-iptv.com:999/images/1690953.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Despicable Me 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18251.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Escape From Planet Earth" tvg-logo="http://dna-iptv.com:999/images/0765446.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Escape From Planet Earth
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18223.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Finding Dory" tvg-logo="http://dna-iptv.com:999/images/2277860.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Finding Dory
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18252.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Free Birds" tvg-logo="http://dna-iptv.com:999/images/3413408.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Free Birds
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18253.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Frozen" tvg-logo="http://dna-iptv.com:999/images/6276048.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Frozen
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18192.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Home" tvg-logo="http://012345x.com:999/images/aa4VXdQIdRmJehnb2cxtNhVyBgC_big.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Home
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18237.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Hotel Transilvania 2" tvg-logo="" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Hotel Transilvania 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18193.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Hotel Transilvania" tvg-logo="http://worldcs.info:8080/images/2510894.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Hotel Transilvania
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18206.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: How To Train Your Dragon" tvg-logo="http://dna-iptv.com:999/images/1646971.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: How To Train Your Dragon
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18224.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: How To Train Your Dragon 2" tvg-logo="http://dna-iptv.com:999/images/1646971.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: How To Train Your Dragon 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18254.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Inside Out" tvg-logo="http://dna-iptv.com:999/images/2096673.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Inside Out
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18238.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Iron Man And Captain America Heroes United" tvg-logo="http://dna-iptv.com:999/images/3911200.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Iron Man And Captain America Heroes United
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18225.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Kingsglaive Final Fantasy" tvg-logo="http://dna-iptv.com:999/images/5595168.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Kingsglaive Final Fantasy
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18226.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Kubo And The Two Strings" tvg-logo="http://dna-iptv.com:999/images/4302938.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Kubo And The Two Strings
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18194.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Kung Fu Panda 1" tvg-logo="http://dna-iptv.com:999/images/1248691.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Kung Fu Panda 1
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18207.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Kung Fu Panda 2" tvg-logo="http://dna-iptv.com:999/images/1302011.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Kung Fu Panda 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18208.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Kung Fu Panda 3" tvg-logo="http://dna-iptv.com:999/images/2267968.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Kung Fu Panda 3
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18239.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Legends Of Oz Dorothys Return" tvg-logo="http://dna-iptv.com:999/images/0884726.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Legends Of Oz Dorothys Return
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18195.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Lilo And Stitch 2 Stitch Has A Glitch" tvg-logo="" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Lilo And Stitch 2 Stitch Has A Glitch
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18240.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Maya The Bee Movie" tvg-logo="http://dna-iptv.com:999/images/3336368.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Maya The Bee Movie
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18227.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Minions" tvg-logo="http://dna-iptv.com:999/images/7185244.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Minions
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18255.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Moana" tvg-logo="http://dna-iptv.com:999/images/7452280.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Moana
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18196.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Monkey King Hero Is Back" tvg-logo="http://dna-iptv.com:999/images/4644382.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Monkey King Hero Is Back
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18228.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Monsters, Inc. - 2001" tvg-logo="http://012345x.com:999/images/sgheSKxZkttIe8ONsf2sWXPgip3_big.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Monsters, Inc. - 2001
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18229.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Monsters University" tvg-logo="http://dna-iptv.com:999/images/1453405.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Monsters University
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18241.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Mr  Peabody And Sherman" tvg-logo="http://dna-iptv.com:999/images/5958444.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Mr  Peabody And Sherman
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18242.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Norm Of The North" tvg-logo="http://dna-iptv.com:999/images/1594972.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Norm Of The North
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18243.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Ooops! Noah Is Gone" tvg-logo="http://dna-iptv.com:999/images/5543332.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Ooops! Noah Is Gone
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18209.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Planes Fire And Rescue" tvg-logo="http://dna-iptv.com:999/images/7045886.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Planes Fire And Rescue
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18244.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Ratchet And Clank" tvg-logo="http://dna-iptv.com:999/images/5667196.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Ratchet And Clank
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18210.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Rio 1" tvg-logo="http://dna-iptv.com:999/images/2387501.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Rio 1
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18211.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Rio 2" tvg-logo="http://dna-iptv.com:999/images/2387501.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Rio 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18245.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Robinson Crusoe" tvg-logo="http://dna-iptv.com:999/images/0117496.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Robinson Crusoe
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18197.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Sausage Party" tvg-logo="http://dna-iptv.com:999/images/1700841.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Sausage Party
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18198.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Teenage Mutant Ninja Turtles" tvg-logo="http://dna-iptv.com:999/images/1291150.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Teenage Mutant Ninja Turtles
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18256.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Teenage Mutant Ninja Turtles Out Of The Shadows" tvg-logo="http://dna-iptv.com:999/images/3949660.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Teenage Mutant Ninja Turtles Out Of The Shadows
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18232.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Boxtrolls" tvg-logo="http://dna-iptv.com:999/images/0787474.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Boxtrolls
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18246.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Croods" tvg-logo="" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Croods
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18213.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Lego Movie" tvg-logo="http://dna-iptv.com:999/images/1490017.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Lego Movie
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18214.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Little Prince" tvg-logo="http://dna-iptv.com:999/images/0031580.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Little Prince
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18233.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Nut Job" tvg-logo="http://dna-iptv.com:999/images/3579378.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Nut Job
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18215.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Peanuts Movie" tvg-logo="http://dna-iptv.com:999/images/2452042.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Peanuts Movie
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18216.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Secret Life Of Pets" tvg-logo="http://dna-iptv.com:999/images/2709768.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Secret Life Of Pets
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18257.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Smurfs 1" tvg-logo="" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Smurfs 1
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18258.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Smurfs 2" tvg-logo="" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Smurfs 2
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18199.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Spongebob Movie Sponge Out Of Water" tvg-logo="http://dna-iptv.com:999/images/2279373.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Spongebob Movie Sponge Out Of Water
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18259.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: The Wild Life" tvg-logo="http://dna-iptv.com:999/images/0182070.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: The Wild Life
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18247.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Tinker Bell And The Great Fairy Rescue" tvg-logo="http://dna-iptv.com:999/images/1216515.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Tinker Bell And The Great Fairy Rescue
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18200.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Tinker Bell And The Legend Of The Neverbeast" tvg-logo="http://dna-iptv.com:999/images/3120408.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Tinker Bell And The Legend Of The Neverbeast
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18248.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Trolls" tvg-logo="http://dna-iptv.com:999/images/5568880.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Trolls
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18217.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="New Kids Turbo - 2010" tvg-logo="http://012345x.com:999/images/qrrgS5mKY8np25tWqG75sqOaXRF_big.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",New Kids Turbo - 2010
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18218.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Underdogs" tvg-logo="http://dna-iptv.com:999/images/3150574.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Underdogs
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18201.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Walking With Dinosaurs" tvg-logo="http://dna-iptv.com:999/images/1762399.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Walking With Dinosaurs
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18202.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="Kids: Zootopia" tvg-logo="http://dna-iptv.com:999/images/7159666.jpg" group-title="Παιδικά - Ελληνικοί Υπότιτλοι",Kids: Zootopia
+http://012345x.com:999/movie/Petros.Fak/petros.f@k@as/18203.mp4
